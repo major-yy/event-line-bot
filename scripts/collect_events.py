@@ -387,6 +387,7 @@ def collect(config):
                     found.extend(extract_link_candidates(page_text, page_source))
                     for event in found:
                         event["score"] = score_event(event, config, group.get("weight", 1))
+                        event["base_score"] = event["score"]
                         event["source_group"] = group["name"]
                     events.extend(found)
                 except (urllib.error.URLError, TimeoutError, UnicodeError) as exc:

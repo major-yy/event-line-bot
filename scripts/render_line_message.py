@@ -61,18 +61,41 @@ def load_seen_ids(path):
     return {item["id"] for item in data.get("sent_events", []) if item.get("id")}
 
 
-def select_events(events, seen_ids, limit=10, only_new=True):
+def select_events(events, seen_ids, limit=20, only_new=True, baseline_min=5):
+    candidates = [
+        event
+        for event in events
+        if not (only_new and event.get("id") in seen_ids)
+    ]
     selected = []
-    for event in events:
-        if only_new and event.get("id") in seen_ids:
+
+    baseline_candidates = sorted(
+        candidates,
+        key=lambda event: event.get("base_score", event.get("score", 0)),
+        reverse=True,
+    )
+    for event in baseline_candidates:
+        selected.append(event)
+        if len(selected) >= min(baseline_min, limit):
+            break
+
+    selected_ids = {event.get("id") for event in selected}
+    scored_candidates = sorted(
+        candidates,
+        key=lambda event: event.get("score", 0),
+        reverse=True,
+    )
+    for event in scored_candidates:
+        if event.get("id") in selected_ids:
             continue
         selected.append(event)
+        selected_ids.add(event.get("id"))
         if len(selected) >= limit:
             break
     return selected
 
 
-def render(events, limit=10):
+def render(events, limit=20):
     lines = ["今週の1都3県イベント候補", ""]
     if not events:
         lines.append("新しく見つかったイベント候補はありません。")
@@ -107,13 +130,20 @@ def main():
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
     parser.add_argument("--selected-out", type=Path, default=DEFAULT_SELECTED)
     parser.add_argument("--history", type=Path, default=DEFAULT_HISTORY)
-    parser.add_argument("--limit", type=int, default=10)
+    parser.add_argument("--limit", type=int, default=20)
+    parser.add_argument("--baseline-min", type=int, default=5)
     parser.add_argument("--include-seen", action="store_true")
     args = parser.parse_args()
 
     data = json.loads(args.infile.read_text(encoding="utf-8"))
     seen_ids = load_seen_ids(args.history)
-    selected = select_events(data.get("events", []), seen_ids, args.limit, not args.include_seen)
+    selected = select_events(
+        data.get("events", []),
+        seen_ids,
+        args.limit,
+        not args.include_seen,
+        args.baseline_min,
+    )
     message = render(selected, args.limit)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(message, encoding="utf-8")
@@ -122,6 +152,10 @@ def main():
         json.dumps(
             {
                 "selected_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+                "selection_policy": {
+                    "limit": args.limit,
+                    "baseline_min": args.baseline_min,
+                },
                 "events": selected,
             },
             ensure_ascii=False,

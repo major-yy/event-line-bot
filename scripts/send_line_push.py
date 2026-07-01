@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -8,13 +9,39 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MESSAGE = ROOT / "data" / "line_message.txt"
+MAX_LINE_TEXT_CHARS = 4800
+MAX_MESSAGES_PER_PUSH = 5
+
+
+def split_line_text(text, max_chars=MAX_LINE_TEXT_CHARS):
+    chunks = []
+    current = []
+    current_len = 0
+    blocks = text.strip().split("\n\n")
+    for block in blocks:
+        addition = block if not current else "\n\n" + block
+        if current and current_len + len(addition) > max_chars:
+            chunks.append("\n\n".join(current))
+            current = [block]
+            current_len = len(block)
+        else:
+            current.append(block)
+            current_len += len(addition)
+    if current:
+        chunks.append("\n\n".join(current))
+    return chunks
 
 
 def post_line_message(token, user_id, text):
+    chunks = split_line_text(text)
+    if len(chunks) > MAX_MESSAGES_PER_PUSH:
+        raise ValueError(
+            f"LINE message is too long: {len(chunks)} chunks, max {MAX_MESSAGES_PER_PUSH}"
+        )
     body = json.dumps(
         {
             "to": user_id,
-            "messages": [{"type": "text", "text": text[:5000]}],
+            "messages": [{"type": "text", "text": chunk} for chunk in chunks],
         },
         ensure_ascii=False,
     ).encode("utf-8")
@@ -32,6 +59,8 @@ def post_line_message(token, user_id, text):
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser()
     parser.add_argument("--message", type=Path, default=DEFAULT_MESSAGE)
     parser.add_argument("--dry-run", action="store_true")

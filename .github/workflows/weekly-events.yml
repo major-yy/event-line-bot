@@ -25,7 +25,7 @@ jobs:
       - name: Collect events
         run: python scripts/collect_events.py
       - name: Render LINE message
-        run: python scripts/render_line_message.py --limit 10
+        run: python scripts/render_line_message.py --limit 20 --baseline-min 5
       - name: Send LINE push
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
