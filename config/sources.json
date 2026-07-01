@@ -37,14 +37,23 @@
           "url": "https://www.gotokyo.org/jp/event-calendar/index.html"
         },
         {
+          "name": "GO TOKYO検索",
+          "prefecture": "東京",
+          "url": "https://www.gotokyo.org/ja/travel-directory/result/index/template/222%2C152%2C212"
+        },
+        {
           "name": "観光かながわNOW",
           "prefecture": "神奈川",
-          "url": "https://www.kanagawa-kankou.or.jp/event"
+          "url": "https://www.kanagawa-kankou.or.jp/event",
+          "max_pages": 6,
+          "page_url_template": "{base}?page={page}"
         },
         {
           "name": "ちば観光ナビ",
           "prefecture": "千葉",
-          "url": "https://maruchiba.jp/event/index.html"
+          "url": "https://maruchiba.jp/event/index.html",
+          "max_pages": 6,
+          "page_url_template": "https://maruchiba.jp/event/index_{page}_1____0__.html"
         },
         {
           "name": "ちょこたび埼玉",
@@ -96,7 +105,30 @@
         {
           "name": "レッツエンジョイ東京",
           "prefecture": "東京",
-          "url": "https://www.enjoytokyo.jp/event/list/"
+          "url": "https://www.enjoytokyo.jp/event/list/",
+          "max_pages": 5,
+          "page_url_template": "{base}/{page}/"
+        },
+        {
+          "name": "レッツエンジョイ神奈川",
+          "prefecture": "神奈川",
+          "url": "https://www.enjoytokyo.jp/event/list/pref14/",
+          "max_pages": 3,
+          "page_url_template": "{base}/{page}/"
+        },
+        {
+          "name": "レッツエンジョイ千葉",
+          "prefecture": "千葉",
+          "url": "https://www.enjoytokyo.jp/event/list/pref12/",
+          "max_pages": 2,
+          "page_url_template": "{base}/{page}/"
+        },
+        {
+          "name": "レッツエンジョイ埼玉",
+          "prefecture": "埼玉",
+          "url": "https://www.enjoytokyo.jp/event/list/pref11/",
+          "max_pages": 2,
+          "page_url_template": "{base}/{page}/"
         },
         {
           "name": "ウォーカープラス東京",

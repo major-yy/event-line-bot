@@ -407,14 +407,18 @@ def expand_source_pages(source):
     max_pages = int(source.get("max_pages", 1) or 1)
     for page in range(1, max_pages + 1):
         page_source = dict(source)
-        page_source["url"] = paged_url(source["url"], page)
+        page_source["url"] = paged_url(source, page)
         yield page_source
 
 
-def paged_url(url, page):
+def paged_url(source, page):
+    url = source["url"]
     if page <= 1:
         return url
+    template = source.get("page_url_template")
     base = url.rstrip("/")
+    if template:
+        return template.format(base=base, page=page)
     if base.endswith(".html"):
         stem = base[:-5]
         return f"{stem}/{page}.html"
