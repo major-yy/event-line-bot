@@ -1,0 +1,42 @@
+name: Weekly event LINE message
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Friday 08:00 JST = Thursday 23:00 UTC
+    - cron: "0 23 * * 4"
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check LINE setup
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_IDS: ${{ secrets.LINE_USER_IDS }}
+        run: python scripts/check_setup.py
+      - name: Collect events
+        run: python scripts/collect_events.py
+      - name: Render LINE message
+        run: python scripts/render_line_message.py --limit 10
+      - name: Send LINE push
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_IDS: ${{ secrets.LINE_USER_IDS }}
+        run: python scripts/send_line_push.py
+      - name: Mark selected events as sent
+        run: python scripts/mark_sent.py
+      - name: Persist sent history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sent_history.json
+          git diff --cached --quiet || git commit -m "Update sent event history"
+          git push

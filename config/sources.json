@@ -1,0 +1,206 @@
+{
+  "target_prefectures": ["東京", "神奈川", "千葉", "埼玉"],
+  "weekly_run": {
+    "timezone": "Asia/Tokyo",
+    "preferred_send_day": "Friday",
+    "preferred_send_time": "08:00"
+  },
+  "notification_policy": {
+    "send_unseen_events_once": true,
+    "keep_seen_history_days": 730,
+    "prefer_next_weekend": true,
+    "allow_far_future_events": true,
+    "allow_long_running_events": true
+  },
+  "location_weights": {
+    "東京": 7,
+    "神奈川": 4,
+    "埼玉": 0,
+    "千葉": 0
+  },
+  "date_weights": {
+    "has_date": 1,
+    "next_weekend_overlap": 4,
+    "starts_within_10_days": 2,
+    "starts_after_30_days": -1,
+    "already_ended": -20,
+    "unknown_date": -2
+  },
+  "source_groups": [
+    {
+      "name": "official_tourism",
+      "weight": 3,
+      "sources": [
+        {
+          "name": "GO TOKYO",
+          "prefecture": "東京",
+          "url": "https://www.gotokyo.org/jp/event-calendar/index.html"
+        },
+        {
+          "name": "観光かながわNOW",
+          "prefecture": "神奈川",
+          "url": "https://www.kanagawa-kankou.or.jp/event"
+        },
+        {
+          "name": "ちば観光ナビ",
+          "prefecture": "千葉",
+          "url": "https://maruchiba.jp/event/index.html"
+        },
+        {
+          "name": "ちょこたび埼玉",
+          "prefecture": "埼玉",
+          "url": "https://chocotabi-saitama.jp/event/"
+        }
+      ]
+    },
+    {
+      "name": "favorite_places",
+      "weight": 2,
+      "sources": [
+        {
+          "name": "横浜赤レンガ倉庫",
+          "prefecture": "神奈川",
+          "url": "https://www.yokohama-akarenga.jp/event/"
+        },
+        {
+          "name": "幕張メッセ",
+          "prefecture": "千葉",
+          "url": "https://www.m-messe.co.jp/event/"
+        },
+        {
+          "name": "さいたまスーパーアリーナ",
+          "prefecture": "埼玉",
+          "url": "https://www.saitama-arena.co.jp/event/"
+        },
+        {
+          "name": "東京ミッドタウン",
+          "prefecture": "東京",
+          "url": "https://www.tokyo-midtown.com/jp/event/"
+        }
+      ]
+    },
+    {
+      "name": "culture_and_media",
+      "weight": 2,
+      "sources": [
+        {
+          "name": "Time Out Tokyo",
+          "prefecture": "東京",
+          "url": "https://www.timeout.jp/tokyo/ja/things-to-do"
+        },
+        {
+          "name": "Tokyo Art Beat",
+          "prefecture": "東京",
+          "url": "https://www.tokyoartbeat.com/events"
+        },
+        {
+          "name": "レッツエンジョイ東京",
+          "prefecture": "東京",
+          "url": "https://www.enjoytokyo.jp/event/list/"
+        },
+        {
+          "name": "ウォーカープラス関東",
+          "prefecture": "東京",
+          "url": "https://www.walkerplus.com/event_list/ar0300/"
+        }
+      ]
+    },
+    {
+      "name": "major_venues",
+      "weight": 2,
+      "sources": [
+        {
+          "name": "六本木ヒルズ",
+          "prefecture": "東京",
+          "url": "https://www.roppongihills.com/events/"
+        },
+        {
+          "name": "東京ミッドタウン日比谷",
+          "prefecture": "東京",
+          "url": "https://www.hibiya.tokyo-midtown.com/jp/event/"
+        },
+        {
+          "name": "東京ドームシティ",
+          "prefecture": "東京",
+          "url": "https://www.tokyo-dome.co.jp/event/"
+        },
+        {
+          "name": "東京スカイツリータウン",
+          "prefecture": "東京",
+          "url": "https://www.tokyo-skytree.jp/event/"
+        },
+        {
+          "name": "サンシャインシティ",
+          "prefecture": "東京",
+          "url": "https://sunshinecity.jp/event/"
+        },
+        {
+          "name": "横浜観光情報",
+          "prefecture": "神奈川",
+          "url": "https://www.welcome.city.yokohama.jp/eventinfo/"
+        },
+        {
+          "name": "横浜みなとみらい21",
+          "prefecture": "神奈川",
+          "url": "https://www.minatomirai21.com/events"
+        },
+        {
+          "name": "ラゾーナ川崎プラザ",
+          "prefecture": "神奈川",
+          "url": "https://mitsui-shopping-park.com/lazona-kawasaki/event/"
+        },
+        {
+          "name": "イクスピアリ",
+          "prefecture": "千葉",
+          "url": "https://www.ikspiari.com/ent/event/"
+        },
+        {
+          "name": "メッツァビレッジ",
+          "prefecture": "埼玉",
+          "url": "https://metsa-hanno.com/event/"
+        }
+      ]
+    }
+  ],
+  "ranking_preferences": {
+    "positive_keywords": [
+      "無料",
+      "入場無料",
+      "マルシェ",
+      "フェス",
+      "祭",
+      "花火",
+      "グルメ",
+      "公園",
+      "夜",
+      "アート",
+      "展示",
+      "展",
+      "音楽",
+      "ライブ",
+      "マーケット",
+      "クラフト",
+      "イルミネーション",
+      "ビア",
+      "ビール",
+      "映画",
+      "体験"
+    ],
+    "negative_keywords": [
+      "ビジネス",
+      "セミナー",
+      "就職",
+      "投資",
+      "オンライン",
+      "子ども向けのみ",
+      "常設",
+      "通年",
+      "テイクアウト",
+      "デリバリー",
+      "半券サービス",
+      "宿泊プラン",
+      "移動販売車",
+      "関係者"
+    ]
+  }
+}

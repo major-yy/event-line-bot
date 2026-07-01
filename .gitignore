@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Generated every run.
+data/events.json
+data/line_message.txt
+data/selected_events.json
+
+# Keep sent_history.json tracked so GitHub Actions can remember what was sent.
