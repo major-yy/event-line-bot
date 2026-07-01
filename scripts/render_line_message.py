@@ -94,6 +94,7 @@ def render(events, limit=10):
             lines.append(f"🖼 {event.get('image_url')}")
         lines.append(f"🔗 {event.get('url')}")
         lines.append("")
+    lines.append("返信例: 気になるなら「1 行きたい」、行ったら「1 行く」")
     lines.append("※開催状況・料金は行く前に公式URLで確認してね。")
     return "\n".join(lines).strip() + "\n"
 
