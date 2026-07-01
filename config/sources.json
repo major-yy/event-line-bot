@@ -99,9 +99,28 @@
           "url": "https://www.enjoytokyo.jp/event/list/"
         },
         {
-          "name": "ウォーカープラス関東",
+          "name": "ウォーカープラス東京",
           "prefecture": "東京",
-          "url": "https://www.walkerplus.com/event_list/ar0300/"
+          "url": "https://www.walkerplus.com/event_list/ar0313/",
+          "max_pages": 8
+        },
+        {
+          "name": "ウォーカープラス神奈川",
+          "prefecture": "神奈川",
+          "url": "https://www.walkerplus.com/event_list/ar0314/",
+          "max_pages": 5
+        },
+        {
+          "name": "ウォーカープラス千葉",
+          "prefecture": "千葉",
+          "url": "https://www.walkerplus.com/event_list/ar0312/",
+          "max_pages": 4
+        },
+        {
+          "name": "ウォーカープラス埼玉",
+          "prefecture": "埼玉",
+          "url": "https://www.walkerplus.com/event_list/ar0311/",
+          "max_pages": 4
         }
       ]
     },

@@ -380,20 +380,45 @@ def collect(config):
     errors = []
     for group in config["source_groups"]:
         for source in group["sources"]:
-            try:
-                page_text = fetch_text(source["url"])
-                found = extract_jsonld_events(page_text, source)
-                found.extend(extract_link_candidates(page_text, source))
-                for event in found:
-                    event["score"] = score_event(event, config, group.get("weight", 1))
-                    event["source_group"] = group["name"]
-                events.extend(found)
-            except (urllib.error.URLError, TimeoutError, UnicodeError) as exc:
-                errors.append({"source": source["name"], "url": source["url"], "error": str(exc)})
+            for page_source in expand_source_pages(source):
+                try:
+                    page_text = fetch_text(page_source["url"])
+                    found = extract_jsonld_events(page_text, page_source)
+                    found.extend(extract_link_candidates(page_text, page_source))
+                    for event in found:
+                        event["score"] = score_event(event, config, group.get("weight", 1))
+                        event["source_group"] = group["name"]
+                    events.extend(found)
+                except (urllib.error.URLError, TimeoutError, UnicodeError) as exc:
+                    errors.append(
+                        {
+                            "source": page_source["name"],
+                            "url": page_source["url"],
+                            "error": str(exc),
+                        }
+                    )
     events = dedupe(events)
     events = [event for event in events if is_publishable_event(event)]
     events.sort(key=lambda item: item.get("score", 0), reverse=True)
     return {"events": events, "errors": errors, "count": len(events)}
+
+
+def expand_source_pages(source):
+    max_pages = int(source.get("max_pages", 1) or 1)
+    for page in range(1, max_pages + 1):
+        page_source = dict(source)
+        page_source["url"] = paged_url(source["url"], page)
+        yield page_source
+
+
+def paged_url(url, page):
+    if page <= 1:
+        return url
+    base = url.rstrip("/")
+    if base.endswith(".html"):
+        stem = base[:-5]
+        return f"{stem}/{page}.html"
+    return f"{base}/{page}.html"
 
 
 def main():
