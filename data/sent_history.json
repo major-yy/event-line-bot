@@ -89,6 +89,186 @@
       "start_date_iso": "2026-07-05",
       "end_date_iso": "2026-07-05",
       "url": "https://www.enjoytokyo.jp/event/1297894/"
+    },
+    {
+      "id": "e9022ba3dd1aa315",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "細田守の原点/展(東京)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-20",
+      "end_date_iso": "2026-08-31",
+      "url": "https://hosodagenten.exhibit.jp/"
+    },
+    {
+      "id": "cdc58ebadbabba29",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "企画展「星座が導く運命の香り」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-08",
+      "end_date_iso": "2026-07-25",
+      "url": "https://greenterrace.aromakankyo.or.jp/event/202605_constellation/"
+    },
+    {
+      "id": "c86c8d4aaf4457ae",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "PICNIC CINEMA(ピクニック シネマ)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-05",
+      "end_date_iso": "2026-07-05",
+      "url": "https://event.gardenplace.jp/special/picniccinema2026/"
+    },
+    {
+      "id": "0b7725e3334a69d3",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "クサマズ・ポップ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-16",
+      "end_date_iso": "2026-08-30",
+      "url": "https://yayoikusamamuseum.jp/home/"
+    },
+    {
+      "id": "12a254cfe86cdefb",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "特別展「大南極展」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-01",
+      "end_date_iso": "2026-09-27",
+      "url": "https://dainankyokuten.jp/"
+    },
+    {
+      "id": "885a7ce8e945aea7",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "都市洞窟エソラゴト ver.1",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-20",
+      "end_date_iso": "2026-07-13",
+      "url": "https://esoragoto2026v1.peatix.com/"
+    },
+    {
+      "id": "9ccbaa56abb471b0",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "トニー・アウスラー：技術と霊知のはざま〜魔術、メディア、アート〜",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-03",
+      "end_date_iso": "2026-09-27",
+      "url": "https://www.tokyonode.jp/events/tony-oursler/index.html"
+    },
+    {
+      "id": "c8f1b64027be33f3",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "ガンダムスタンプラリー2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-02",
+      "end_date_iso": "2026-07-12",
+      "url": "https://tokyo-gundam-project.jp/stamp-rally/"
+    },
+    {
+      "id": "a080692fb2080332",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "錦糸町PARCO・楽天地×リアル謎解きゲーム 「夏祭り キミと辿った七つの灯り」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-05",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.enjoytokyo.jp/pr/kinshichoparco_rakutenchi_nt/"
+    },
+    {
+      "id": "42d5af5a308cb0bb",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "再訪 日本の映画ポスター芸術",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-07",
+      "end_date_iso": "2026-07-26",
+      "url": "https://www.nfaj.go.jp/exhibition/posterjapan2026/"
+    },
+    {
+      "id": "c1afa92f3341e42b",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "よこはまコスモワールド「大観覧車 光のアート」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-04-11",
+      "end_date_iso": "2026-09-30",
+      "url": "https://cosmoworld.jp/"
+    },
+    {
+      "id": "3210614423ac2830",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "“カフェ”に集う芸術家 ー印象派からゴッホ、ロートレック、ピカソまで",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-13",
+      "end_date_iso": "2026-09-23",
+      "url": "https://mimt.jp/ex_sp/cafe/teaser/"
+    },
+    {
+      "id": "43105f3fd9e3caa5",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "「怖い」本",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-03",
+      "end_date_iso": "2026-09-23",
+      "url": "https://toyo-bunko.or.jp/museum-exhibition/2631/"
+    },
+    {
+      "id": "003ca6a0ff16a094",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "第75回 江戸趣味納涼大会うえの夏まつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-10",
+      "end_date_iso": "2026-08-11",
+      "url": "https://ueno.or.jp/"
+    },
+    {
+      "id": "f0ebdb3e15889522",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "生誕100年 森英恵 ヴァイタル・タイプ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-15",
+      "end_date_iso": "2026-07-06",
+      "url": "https://morihanae100.jp/"
+    },
+    {
+      "id": "ebb7f850383669da",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "品プリグルメ紀行～NIPPONうまいものフェア～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-16",
+      "end_date_iso": "2026-07-15",
+      "url": "https://www.princehotels.co.jp/shinagawa/plan/special/nippon_umaimono_fair_2026/"
+    },
+    {
+      "id": "6246bb1c146ab9b5",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "所蔵作品展 MOMATコレクション",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-26",
+      "end_date_iso": "2026-09-13",
+      "url": "https://www.momat.go.jp/exhibitions/r8-1"
+    },
+    {
+      "id": "b1807c064516abe2",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "江戸東京博物館リニューアル記念特別展「洋館 明治の夢と挑戦」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-23",
+      "end_date_iso": "2026-08-23",
+      "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/western-style-architecture/"
+    },
+    {
+      "id": "528f8ad6d0ae0a2f",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "開館10周年記念 北斎 広重 ふたりの富士、それぞれの富士",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-23",
+      "end_date_iso": "2026-08-30",
+      "url": "https://hokusai-museum.jp/hokusaihiroshige/"
+    },
+    {
+      "id": "60d969303da780dc",
+      "sent_at": "2026-07-02T11:49:54.631750+00:00",
+      "name": "「サン・ジョルディの日」記念 文化体験型新メニュー",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-23",
+      "end_date_iso": "2026-08-30",
+      "url": "https://yokumokumuseum.com/shop/#cafe"
     }
   ]
 }
