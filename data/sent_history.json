@@ -449,6 +449,186 @@
       "start_date_iso": "2026-04-17",
       "end_date_iso": "2026-09-30",
       "url": "https://nazoxnazo.com/event/tensei_gacha/"
+    },
+    {
+      "id": "e2727dde0daeedf6",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "メトロタイムゲート ルビーエクスプレス",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-03",
+      "end_date_iso": "2026-09-30",
+      "url": "https://metrotimegate.com/v3"
+    },
+    {
+      "id": "288b72c59032864b",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "第39回 下町七夕まつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-04",
+      "end_date_iso": "2026-07-05",
+      "url": "https://shitamachi-tanabata.studio.site/"
+    },
+    {
+      "id": "6fb1e5c2e7d6815c",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "やなせたかし展 人生はよろこばせごっこ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-30",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.setabun.or.jp/exhibition/20260630-0906_yanasetakashi.html"
+    },
+    {
+      "id": "3de9a0e66f34424a",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "東京メトロ謎解きガイドブック 宝石をたどる路線図",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-27",
+      "end_date_iso": "2026-07-31",
+      "url": "https://nazoguidebookmetro.quizknock.com/"
+    },
+    {
+      "id": "14cb1729cdabc19f",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "新企画「ふかふかミュージアム」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-03-07",
+      "end_date_iso": "2026-08-30",
+      "url": "https://snoopymuseum.tokyo/s/smt/news/detail/10325?ima=0000"
+    },
+    {
+      "id": "2bae1b8bf0d580cf",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "プラネタリウム「今夜の星空と“UYUNI ―天空の鏡・ウユニ塩湖―”」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-03-11",
+      "end_date_iso": "2026-07-17",
+      "url": "https://www.fuchu-cpf.or.jp/museum/1000077/1003430.html"
+    },
+    {
+      "id": "fa1f5adc36014c41",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "サンセットビーチ・オーストラリアビアガーデン",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-15",
+      "end_date_iso": "2026-09-30",
+      "url": "https://tokyo.hiltonjapan.co.jp/restaurants/beer-garden"
+    },
+    {
+      "id": "ffd664e63d7ed216",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "「STAR WARS」CAFE : Galactic Diner(「スター・ウォーズ」カフェ：ギャラクティック ダイナー) in 東京",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-04",
+      "end_date_iso": "2026-08-16",
+      "url": "https://sw2026.ltr-online.com/lp/sw2026-s008/"
+    },
+    {
+      "id": "31de980a00ca0940",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "星座別アロマスプレー作りワークショップ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-08",
+      "end_date_iso": "2026-07-25",
+      "url": "https://www.aromakankyo.or.jp/greenterrace"
+    },
+    {
+      "id": "8772e68439e4609f",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "誕生50周年記念 ノンタン ずっとともだち!!!",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-09-27",
+      "url": "https://play2020.jp/article/nontan50/"
+    },
+    {
+      "id": "1d569517053d7aa5",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "風そよぐ情景 ヴィクトリア朝絵画・フランス印象派",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-16",
+      "end_date_iso": "2026-10-12",
+      "url": "https://www.matsuoka-museum.jp/contents/10604/"
+    },
+    {
+      "id": "22fc65b456eb3c79",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "MOTコレクション はじめて、びじゅつ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-28",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.mot-art-museum.jp/exhibitions/mot-collection-260428/"
+    },
+    {
+      "id": "3e29b960f9f7a09b",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "サンシャイン水族館 マリンガーデンイルミネーション",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-11",
+      "end_date_iso": "2026-09-30",
+      "url": "https://sunshinecity.jp/aquarium/news/entry-30247.html"
+    },
+    {
+      "id": "d12df2078b06f682",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "魅惑のアジアングルメ with ハーゲンダッツ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-06",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.keioplaza.co.jp/hachioji/event/pages/asian_gourmet2026/"
+    },
+    {
+      "id": "2a65595bb6cd120f",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "PREMIUM BEER TERRACE 2026 ーHAWAIIAN GRILLー(プレミアム ビア テラス 2026 ハワイアングリル)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-21",
+      "end_date_iso": "2026-09-06",
+      "url": "https://premium-beer-terrace.com/"
+    },
+    {
+      "id": "1279eca30e27f244",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "夏の特別展「古代オリエントのたてものとまちづくり ー模型で探検！ー」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-04",
+      "end_date_iso": "2026-09-06",
+      "url": "https://aom-tokyo.com/exhibition/260704_maquette.html"
+    },
+    {
+      "id": "f7c65bffa16dd160",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "国営昭和記念公園のアジサイ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-01",
+      "end_date_iso": "2026-07-10",
+      "url": "https://www.showakinen-koen.jp/"
+    },
+    {
+      "id": "36f66de844b18198",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "秋川渓谷あじさいまつり2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-06",
+      "end_date_iso": "2026-07-05",
+      "url": "https://tokyomountain-tours.jp/ajisaimatsuri/ja/index.html"
+    },
+    {
+      "id": "74e0bd78b9502ec3",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "残響シ念展 ー音と感情の実験室ー",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-26",
+      "end_date_iso": "2026-07-20",
+      "url": "https://art.parco.jp/parcomuseum/detail/?id=1932"
+    },
+    {
+      "id": "caa74caaa961cbf6",
+      "sent_at": "2026-07-02T12:40:20.482868+00:00",
+      "name": "特別企画「ビフォー縄文 旧石器時代発見80周年」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-16",
+      "end_date_iso": "2026-08-23",
+      "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2766"
     }
   ]
 }
