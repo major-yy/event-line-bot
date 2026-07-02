@@ -28,6 +28,12 @@ def sync_selected_events(webhook_url, selected_path):
     )
     with urllib.request.urlopen(req, timeout=30) as res:
         response_text = res.read().decode("utf-8", errors="replace")
+        try:
+            response_json = json.loads(response_text)
+        except json.JSONDecodeError as exc:
+            raise RuntimeError(f"feedback sync returned non-JSON response: {response_text[:500]}") from exc
+        if not response_json.get("ok"):
+            raise RuntimeError(f"feedback sync returned error: {response_text[:500]}")
         return res.status, response_text
 
 
@@ -53,6 +59,8 @@ def main():
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
         raise SystemExit(f"feedback sync failed: {exc.code} {detail}") from exc
+    except RuntimeError as exc:
+        raise SystemExit(str(exc)) from exc
     print(f"feedback sync: {status} {response_text}")
 
 
