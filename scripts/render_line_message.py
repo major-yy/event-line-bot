@@ -1,6 +1,7 @@
 import argparse
 import datetime as dt
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -145,6 +146,13 @@ def main():
         args.baseline_min,
     )
     message = render(selected, args.limit)
+    feedback_form_url = os.getenv("FEEDBACK_FORM_URL", "").strip()
+    if feedback_form_url:
+        message = message.replace(
+            "返信例: 気になるなら「1 行きたい」、行ったら「1 行く」",
+            "気になる/行ったイベントは下のフォームから評価してね。",
+        )
+        message = message.rstrip() + f"\n\n評価フォーム: {feedback_form_url}\n"
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(message, encoding="utf-8")
     args.selected_out.parent.mkdir(parents=True, exist_ok=True)

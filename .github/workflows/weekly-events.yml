@@ -25,6 +25,8 @@ jobs:
       - name: Collect events
         run: python scripts/collect_events.py
       - name: Render LINE message
+        env:
+          FEEDBACK_FORM_URL: ${{ secrets.FEEDBACK_FORM_URL }}
         run: python scripts/render_line_message.py --limit 20 --baseline-min 5
       - name: Sync selected events for feedback
         env:
