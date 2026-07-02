@@ -269,6 +269,186 @@
       "start_date_iso": "2026-04-23",
       "end_date_iso": "2026-08-30",
       "url": "https://yokumokumuseum.com/shop/#cafe"
+    },
+    {
+      "id": "bf4bfbe4ddba6d49",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "池袋熱帯夜市 焼肉or麻辣火鍋×屋台グルメなビアガーデン！",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-24",
+      "end_date_iso": "2026-09-30",
+      "url": "https://www.tobufoods.co.jp/ikebeer/"
+    },
+    {
+      "id": "aa1fd41cfdaf6cef",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "波板と珊瑚礁 ー 建築を遠くに投げる八の実践",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-21",
+      "end_date_iso": "2026-09-13",
+      "url": "https://what.warehouseofart.org/exhibitions/corrugatedcoral/"
+    },
+    {
+      "id": "bcdf4e1667a2d917",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "アイルランド チェスター・ビーティー・コレクション 絵巻と絵本のたからばこ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-27",
+      "end_date_iso": "2026-07-20",
+      "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2737"
+    },
+    {
+      "id": "a2cbe129d877b369",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "「祝 閉店！可哀想に！デパート」展",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-04-25",
+      "end_date_iso": "2026-07-20",
+      "url": "https://depaato.kawaisouni.jp/"
+    },
+    {
+      "id": "19808d3e2ab5bac5",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "モアーズBBQ(バーベキュー)ビアガーデン",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-04-17",
+      "end_date_iso": "2026-09-23",
+      "url": "https://yokohama-mores-bbqbeergarden.jp/"
+    },
+    {
+      "id": "cee661c8fb7b0234",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "横浜フランス月間2026",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-06-12",
+      "end_date_iso": "2026-07-12",
+      "url": "https://culture.institutfrancais.jp/event/mdf2026"
+    },
+    {
+      "id": "5967b9840b8f5dd7",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "横浜・八景島シーパラダイス「花火シンフォニア」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-05-30",
+      "end_date_iso": "2027-03-21",
+      "url": "https://www.seaparadise.co.jp/"
+    },
+    {
+      "id": "3199a303606b6966",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "「世紀末パリの煌めき ーOGATA(オガタ)コレクションにみるミュシャ、シェレ、ロートレック」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-06-17",
+      "end_date_iso": "2026-08-23",
+      "url": "https://www.chigasaki-museum.jp/exhibition/10165/"
+    },
+    {
+      "id": "6e455a509ae21415",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "微わかる展2＋小さいすぎるよ展 ＜東京＞2026年7月1日（水）〜2026年9月30日（水） ＜横浜＞2026年7月17日（金）〜2026年10月18日（日）",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-01",
+      "end_date_iso": "2026-10-18",
+      "url": "https://www.enjoytokyo.jp/event/2049005/"
+    },
+    {
+      "id": "9e0cf98ad0f1c69d",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "花火アクアリウム by NAKED 2026/07/04(土) ～ 09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-04",
+      "end_date_iso": "2026-07-04",
+      "url": "https://www.enjoytokyo.jp/event/1289708/"
+    },
+    {
+      "id": "2b3b822026b36bf4",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "キラナ大夏祭り2026 2026/07/04(土) ～ 07/05(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-04",
+      "end_date_iso": "2026-07-04",
+      "url": "https://www.enjoytokyo.jp/event/2002619/"
+    },
+    {
+      "id": "5382c9c3fa489f7c",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "TOKYO TOWER CITY LIGHT FANTASIA～Summer landscape 2026～(トウキョウ タワー シティ ライト ファンタジア サマーランドスケープ 2026)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-11",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.tokyotower.co.jp/event/summerlandscape2026/"
+    },
+    {
+      "id": "088f9355d08266ef",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "謎解きはコーヒーのあとで ご注文は謎ですか？",
+      "prefecture": "東京",
+      "start_date_iso": "2026-05-09",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.keepallsmiles.com/ordernazo"
+    },
+    {
+      "id": "c3053e63b7f2252a",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "東京タワー ハイボールガーデン2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-03-20",
+      "end_date_iso": "2026-10-18",
+      "url": "https://www.tokyotower.co.jp/event/highballgarden2026/"
+    },
+    {
+      "id": "5d104d6239939949",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "エリック・カール展 はじまりは、はらぺこあおむし",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-25",
+      "end_date_iso": "2026-07-26",
+      "url": "https://ericcarle2026-27.jp/"
+    },
+    {
+      "id": "3978a83e8cc4e33a",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "ぐるぐる展ー進化しつづける人類の物語",
+      "prefecture": "東京",
+      "start_date_iso": "2026-03-28",
+      "end_date_iso": "2026-09-23",
+      "url": "https://montakanawa.jp/programs/spiral/"
+    },
+    {
+      "id": "e1cc85927e3c6f6d",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "アニマル＆モンスター かわいい・怖い・ちょっと変",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-23",
+      "end_date_iso": "2026-08-23",
+      "url": "https://www.ukiyoe-ota-muse.jp/animalsmonsters/"
+    },
+    {
+      "id": "3a760adaa52fbfa6",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "サンシャイン水族館×高橋書店「ざんねんないきもの事典」シリーズ ざんねんないきもの展3",
+      "prefecture": "東京",
+      "start_date_iso": "2026-03-13",
+      "end_date_iso": "2026-11-23",
+      "url": "https://sunshinecity.jp/file/aquarium/zannen/"
+    },
+    {
+      "id": "3efae8d92cd96a07",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "ピカソ meets(ミーツ) ポール・スミス 遊び心の冒険へ",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-10",
+      "end_date_iso": "2026-09-21",
+      "url": "https://www.nact.jp/exhibition_special/2026/picasso_paulsmith/"
+    },
+    {
+      "id": "31fcda734bf6b09c",
+      "sent_at": "2026-07-02T12:31:25.508003+00:00",
+      "name": "リアル謎解きゲーム「人間出るまで転生ガチャ謎」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-17",
+      "end_date_iso": "2026-09-30",
+      "url": "https://nazoxnazo.com/event/tensei_gacha/"
     }
   ]
 }
