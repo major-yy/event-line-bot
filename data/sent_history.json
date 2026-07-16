@@ -989,6 +989,186 @@
       "start_date_iso": "2026-07-17",
       "end_date_iso": "2026-07-17",
       "url": "https://www.enjoytokyo.jp/event/2073396/"
+    },
+    {
+      "id": "d699f13f611351c2",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "第55回江戸川区特産金魚まつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-19",
+      "url": "https://www.city.edogawa.tokyo.jp/e032/sports/kankomidokoro/kingyo/index.html"
+    },
+    {
+      "id": "779ac145a96eb078",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "Jul 11, 2026 - Sep 23, 2026 すみだ郷土文化資料館 特集展示「空中でまぁるく開く打上花火は日本で発明されました」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-11",
+      "end_date_iso": "2026-09-23",
+      "url": "https://www.gotokyo.org/jp/event/sumida/20260711.html"
+    },
+    {
+      "id": "93dfd16678dec2d3",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "はてな展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-27",
+      "end_date_iso": "2026-09-30",
+      "url": "https://entaku.ticket-store.jp/pages/hatena-2026"
+    },
+    {
+      "id": "a250557791363f1e",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "微わかる展2＋小さいすぎるよ展(東京)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-01",
+      "end_date_iso": "2026-09-30",
+      "url": "https://entaku.ticket-store.jp/pages/wakaru2chiisai"
+    },
+    {
+      "id": "635635b7632e4726",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "TOKYO レインボー夏祭り",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-16",
+      "end_date_iso": "2026-08-31",
+      "url": "https://led-tokyo.jp/news/daiba-studio_summer-festival/"
+    },
+    {
+      "id": "9ec20c4cc86b5505",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "Sanrio characters Exhibition Hotel Floria Tokyo (サンリオ キャラクターズ エキシビジョン ホテルフローリア トーキョー)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-15",
+      "end_date_iso": "2027-05-31",
+      "url": "https://floria-tokyo.jp/"
+    },
+    {
+      "id": "b09cf4e49402d8a0",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "リアル脱出ゲーム×名探偵コナン「疾風の追走(ハイウェイ)からの脱出」(新宿)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-02",
+      "end_date_iso": "2026-10-25",
+      "url": "https://realdgame.jp/s/conan2026/"
+    },
+    {
+      "id": "0822d6b29f1096ef",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "ドラゴンクエスト40周年記念展『ドラゴンクエスト the DIVE(ザ ダイブ) ーまだ見ぬ冒険の舞台へー』",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.dragonquest.jp/dq40th-dive/"
+    },
+    {
+      "id": "054745e546a04e8a",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "微わかる展2＋小さいすぎるよ展(横浜)",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-10-18",
+      "url": "https://entaku.ticket-store.jp/pages/wakaru2chiisai"
+    },
+    {
+      "id": "2539662819d1baab",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "第19回ブラジル＆ラテンフェスティバル2026 2026/07/18(土) ～ 07/19(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-18",
+      "url": "https://www.enjoytokyo.jp/event/1064472/"
+    },
+    {
+      "id": "1f42a07bfc9123a3",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "【花・見ごろ】新宿中央公園 ひまわり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-01",
+      "end_date_iso": "2026-08-31",
+      "url": "https://shinjukuchuo-park.jp/"
+    },
+    {
+      "id": "a8e41855e1bb90c0",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "自由が丘盆踊り大会",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-20",
+      "url": "https://www.jiyugaoka-abc.com/event/2024/bonodori/index.html"
+    },
+    {
+      "id": "22df68bf501b40f6",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "『ブック・アクティビスト』 Irma Boom：Book Activist 展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-05",
+      "end_date_iso": "2026-08-23",
+      "url": "https://atelier.muji.com/jp-ja/exhibition/260605/"
+    },
+    {
+      "id": "1e10b0255b96c11d",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "【撮影OK！】涼しいプラネタリウムで夏の夜空を楽しむ、花火ウェルカムドーム７/17(金)より開始",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-07-17",
+      "url": "https://sunshinecity.jp/event/entry-38188.html"
+    },
+    {
+      "id": "4cdf828535b9a6c2",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "北仲夜祭 2026/07/18(土) ～ 09/19(土)",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-18",
+      "url": "https://www.enjoytokyo.jp/event/2075425/"
+    },
+    {
+      "id": "7ac7005d5e9332e1",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "MYSTERY OF TUTANKHAMEN/ミステリー・オブ・ツタンカーメン〜体感型古代エジプト展〜 体感型ガイドプログラム「MYSTERY LIVE(ミステリーライブ)」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-06-15",
+      "end_date_iso": "2026-12-30",
+      "url": "https://tutankhamen.jp/"
+    },
+    {
+      "id": "2bc8ad5d40346f22",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "えのすいまるごと大解剖展",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-03",
+      "end_date_iso": "2026-09-30",
+      "url": "https://www.enosui.com/evententry.php?eid=02660"
+    },
+    {
+      "id": "170cf7029f0c651a",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "第20回辻堂かいひん盆踊り「辻の盆」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-19",
+      "url": "http://www.kanagawa-park.or.jp/tujidou/"
+    },
+    {
+      "id": "9dbef89c144199e3",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "第31回川崎大師 風鈴市",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-07-21",
+      "url": "https://www.fuurinichi.com/"
+    },
+    {
+      "id": "be0f82db950a37de",
+      "sent_at": "2026-07-16T23:48:29.387584+00:00",
+      "name": "あけぼの山農業公園 サマーフェスティバル",
+      "prefecture": "千葉",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-07-19",
+      "url": "https://www.akebonoyama-nougyoukouen.jp/"
     }
   ]
 }
