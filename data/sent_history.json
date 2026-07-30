@@ -1349,6 +1349,186 @@
       "start_date_iso": "2026-07-25",
       "end_date_iso": "2026-07-26",
       "url": "https://kamimizomatsuri.jp/"
+    },
+    {
+      "id": "f1f702bab53fe357",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "第48回芸能山城組ケチャまつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-29",
+      "end_date_iso": "2026-08-02",
+      "url": "https://www.yamashirogumi.jp/"
+    },
+    {
+      "id": "272228eadb1a360c",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "花火アクアリウム by NAKED(バイ ネイキッド)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-04",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.aqua-park.jp/aqua/hanabiaquarium2026/"
+    },
+    {
+      "id": "750485dc155b5eed",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "農林水産省後援 五感で体験、みらいをつくろう「木育フェス2026」（神奈川）",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.aqura.co.jp/mokuikufes2026/?argument=2LPtpU2V&dmai=pro252"
+    },
+    {
+      "id": "0466bdc5caf3e8ff",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "ホラープラネタリウム ふり返りの旋律(有楽町)(リバイバル上映)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-03",
+      "end_date_iso": "2026-09-30",
+      "url": "https://planetarium.konicaminolta.jp/program/horror/?hall=planetariatokyo"
+    },
+    {
+      "id": "96191e7e371b4792",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "8/1（土）第74回 さがみ湖湖上祭 花火大会 2026",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-08-01",
+      "url": "https://www.kanagawa-kankou.or.jp/event/7753"
+    },
+    {
+      "id": "5790b594867fc85b",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "第67回いたばし花火大会 2026/08/01(土)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-08-01",
+      "url": "https://www.enjoytokyo.jp/event/350104/"
+    },
+    {
+      "id": "2dede210cd8c267b",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "ソラマチこども縁日・墨田区民納涼民踊大会",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-25",
+      "end_date_iso": "2026-08-11",
+      "url": "https://www.tokyo-solamachi.jp/"
+    },
+    {
+      "id": "4224b35216d7b120",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "MARUNOUCHI SUMMER FEST",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-24",
+      "end_date_iso": "2026-08-23",
+      "url": "https://www.marunouchi.com/lp/marunouchisummerfest2026/#top"
+    },
+    {
+      "id": "61ed146fe19cb04d",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "迷界デパート〜終わらない記憶が彷徨う、無限の百貨店迷宮〜",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-16",
+      "end_date_iso": "2026-08-11",
+      "url": "https://dmdepart.jp/xr-lbe/meikaidepart/"
+    },
+    {
+      "id": "cfc9a9461e02f797",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "blast ブラスト！",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-25",
+      "end_date_iso": "2026-08-30",
+      "url": "https://blast-tour.jp"
+    },
+    {
+      "id": "0b195d6be4548bb7",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "第61回 中目黒夏まつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-08-02",
+      "url": "http://www.e-nakameguro.com/"
+    },
+    {
+      "id": "789aa8d724aad1bf",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "弘法大師生誕1250年記念 特別展「空海と真言の名宝」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-14",
+      "end_date_iso": "2026-09-06",
+      "url": "https://tsumugu.yomiuri.co.jp/kukai2026/index.html"
+    },
+    {
+      "id": "bb30ca9dcc6edfcb",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "さがみ湖湖上祭花火大会 2026/08/01(土)",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-08-01",
+      "url": "https://www.enjoytokyo.jp/event/2071034/"
+    },
+    {
+      "id": "98acf6ce610907dd",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "藤子・F・不二雄ミュージアム 開館15周年記念ドラえも～ん！ 願いをかなえるひみつ道具展",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-01",
+      "end_date_iso": "2027-06-20",
+      "url": "https://fujiko-museum.com/exhibition.html"
+    },
+    {
+      "id": "d2954283887ff46d",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "プレバト才能アリ展(横浜)",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-22",
+      "end_date_iso": "2026-08-02",
+      "url": "https://www.takashimaya.co.jp/yokohama/special/purebato_sainouari/"
+    },
+    {
+      "id": "d8a9a304d299a8a7",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "マリー・アントワネット・スタイル",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-11-23",
+      "url": "https://www.marie2026.jp/"
+    },
+    {
+      "id": "bca13268604844a1",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "三溪園 「蓮の葉うちわ作り体験講座」",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-25",
+      "end_date_iso": "2026-08-02",
+      "url": "https://www.sankeien.or.jp/"
+    },
+    {
+      "id": "7ddf381b5f9311f0",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "第34回 九十九里町ふるさとまつり",
+      "prefecture": "千葉",
+      "start_date_iso": "2026-08-01",
+      "end_date_iso": "2026-08-01",
+      "url": "https://www.town.kujukuri.chiba.jp/0000008435.html"
+    },
+    {
+      "id": "9829e5351947f1ac",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "西武園ゆうえんち 満点打上花火",
+      "prefecture": "埼玉",
+      "start_date_iso": "2026-07-19",
+      "end_date_iso": "2026-09-23",
+      "url": "https://www.seibuen-amusement-park.jp/2026summer/"
+    },
+    {
+      "id": "14479f58f99b38b3",
+      "sent_at": "2026-07-30T23:53:48.268622+00:00",
+      "name": "メッツァの北欧花火2026",
+      "prefecture": "埼玉",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-09-22",
+      "url": "https://metsa-hanno.com/event/45523/"
     }
   ]
 }
