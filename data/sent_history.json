@@ -1709,6 +1709,186 @@
       "start_date_iso": "2026-08-09",
       "end_date_iso": "2026-08-09",
       "url": "https://www.enjoytokyo.jp/event/2071895/"
+    },
+    {
+      "id": "fb27c6f4fce7fcf4",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "東京 星空と光の夏祭り2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-08",
+      "end_date_iso": "2026-08-16",
+      "url": "http://hoshihika-fes.redcliff-inc.co.jp/index.html"
+    },
+    {
+      "id": "d10fab44a51dd272",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "オクトーバーフェスト TAKANAWA GATEWAY CITY 2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-07",
+      "end_date_iso": "2026-08-23",
+      "url": "https://pavilitas.co.jp/oktoberfest"
+    },
+    {
+      "id": "5a000de619acaadf",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "どこか奇妙な職業体験 真夜中の学芸員",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-24",
+      "end_date_iso": "2026-08-30",
+      "url": "https://twilight.co.jp/midnight-curator/"
+    },
+    {
+      "id": "369ce4cebca4c4ee",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "こどものいいひとすぎるよてん",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-08-19",
+      "url": "https://entaku.ticket-store.jp/pages/kodomonoiihito"
+    },
+    {
+      "id": "28a4de0301357492",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "ギガマート展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.azabudai-hills.com/whats_on/2026/07/0384.html"
+    },
+    {
+      "id": "baaca2a6947bd9bf",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "企画展「MOSO展」Modeling Of Structural Output ー紙造作の世界観ー",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-03",
+      "end_date_iso": "2026-09-12",
+      "url": "https://dnp-plaza.jp/"
+    },
+    {
+      "id": "c7256602e66f7380",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "湯河原温泉Nights",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-05",
+      "end_date_iso": "2026-08-20",
+      "url": "http://www.yugawara.or.jp/"
+    },
+    {
+      "id": "b37b1bf0ae4c229f",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "アニヴェルセル大開放祭",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-11",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.anniversaire.co.jp/wedding/minatomirai/special/anniversairedaikaihousai/"
+    },
+    {
+      "id": "e5e32f64de581101",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "050-5893-5336展（ひとのでんわ展） [PR] ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/2071957/"
+    },
+    {
+      "id": "a33bf97e24981969",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "東京 星空と光の夏祭り 2026 ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/2075448/"
+    },
+    {
+      "id": "e404803fa1b34ac3",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "お台場竹ランタン祭り 2026/08/15(土) ～ 08/23(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-15",
+      "end_date_iso": "2026-08-15",
+      "url": "https://www.enjoytokyo.jp/event/2077470/"
+    },
+    {
+      "id": "b771ac306063ac68",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "ギガマート展 ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/2075444/"
+    },
+    {
+      "id": "e0d2531e240e8b44",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "富岡八幡宮例大祭 深川八幡祭り ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/356835/"
+    },
+    {
+      "id": "634d471d9de70047",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "富岡八幡宮例大祭 ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/2074569/"
+    },
+    {
+      "id": "33986cd0ec9e00c7",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "「花と光のムーブメント」葛西臨海公園 マジックアワー いのちがつながる時間 ～ 2026/08/16(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-16",
+      "end_date_iso": "2026-08-16",
+      "url": "https://www.enjoytokyo.jp/event/2021918/"
+    },
+    {
+      "id": "3e81638b48a13a7d",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "深川八幡祭り(富岡八幡宮例祭)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-12",
+      "end_date_iso": "2026-08-16",
+      "url": "http://www.tomiokahachimangu.or.jp/annai/maturi/maturih1.html"
+    },
+    {
+      "id": "bf90e7624a61db38",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "すみだ・浅草連携 隅田川とうろう流し",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-15",
+      "end_date_iso": "2026-08-15",
+      "url": "https://e-asakusa.jp/culture-experience/109996"
+    },
+    {
+      "id": "18c7ed50a425eba2",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "東京都虹の下水道館 夏休みイベント2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.nijinogesuidoukan.jp/event/2762/"
+    },
+    {
+      "id": "650c05f1c5916395",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "夏の文具キャラバン 2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-11",
+      "end_date_iso": "2026-08-28",
+      "url": "https://www.loft.co.jp/ginzaloft/"
+    },
+    {
+      "id": "69ad341798f8c923",
+      "sent_at": "2026-08-13T23:31:36.288901+00:00",
+      "name": "バレーボール超体験空間「ハイキュー!! オン ザ コート」(東京)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-07",
+      "end_date_iso": "2026-09-13",
+      "url": "https://haikyu-otc-ex.com/tokyo/"
     }
   ]
 }
