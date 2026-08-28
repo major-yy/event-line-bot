@@ -2069,6 +2069,186 @@
       "start_date_iso": "2026-08-22",
       "end_date_iso": "2026-08-22",
       "url": "https://www.kanagawa-kankou.or.jp/event/428"
+    },
+    {
+      "id": "a825135a7c7c3d3e",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "KAWAII 夜市 vol.1 「原宿可愛夜市」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-20",
+      "end_date_iso": "2026-08-30",
+      "url": "https://kawaii-yoichi.com/"
+    },
+    {
+      "id": "76261bb02c4b08dd",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "青鬼ノ棲家(あおおにのすみか)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-15",
+      "end_date_iso": "2026-09-06",
+      "url": "https://obaken-event.wixsite.com/aooninosumika"
+    },
+    {
+      "id": "ab80aa2cbf0fba77",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "SUMMER LOUNGE MEIJI PARK Powered by Corona(サマー ラウンジ メイジ パーク パワード バイ コロナ)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-09-27",
+      "url": "https://meijipark-summer-lounge.com/"
+    },
+    {
+      "id": "f5473d108ebf6ea9",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "〜懐かし、新し 多彩なアニメが大集合！〜 シンエイ動画50周年展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-25",
+      "end_date_iso": "2026-11-29",
+      "url": "https://sam.or.jp/kikaku-list/shin-ei-animation_50th_exhibition"
+    },
+    {
+      "id": "64300928a6a68a21",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "すみすい花火2026 ～水と光で涼む夏。～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-14",
+      "end_date_iso": "2026-09-14",
+      "url": "https://www.sumida-aquarium.com/news/s_260703/"
+    },
+    {
+      "id": "4cc6be472080f66e",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "諏方神社例大祭 2026/08/29(土) ～ 08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-29",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.enjoytokyo.jp/event/644667/"
+    },
+    {
+      "id": "f28ccc5371c1da5b",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "原宿表参道元氣祭スーパーよさこい 2026 2026/08/29(土) ～ 08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-29",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.enjoytokyo.jp/event/355601/"
+    },
+    {
+      "id": "3d35cd82d62df8d3",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "第54回昭島市民くじら祭 2026/08/29(土) ～ 08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-29",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.enjoytokyo.jp/event/2072265/"
+    },
+    {
+      "id": "56e951a3d7fcd5f3",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "クラフトビアグランプリ 2026 in錦糸公園 2026/09/04(金) ～ 09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-04",
+      "end_date_iso": "2026-09-04",
+      "url": "https://www.enjoytokyo.jp/event/2067232/"
+    },
+    {
+      "id": "f93ea798d17a963f",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "第17回 みなとみらい大盆踊り",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-28",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.pacifico.co.jp/event/MM_BonOdori"
+    },
+    {
+      "id": "dc77cea88a36609c",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "テレビとCMで見る平成・令和ヒストリー展2026",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-07",
+      "end_date_iso": "2026-09-27",
+      "url": "https://www.bpcj.or.jp/event/detail/155956/"
+    },
+    {
+      "id": "a7e2f310887fa031",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "POMPOMPURIN 30TH ANNIVERSARY(ポムポムプリン サーティース アニバーサリー) 横浜赤レンガ倉庫コラボレーションキャンペーン",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-08-14",
+      "end_date_iso": "2026-09-13",
+      "url": "https://www.yokohama-akarenga.jp/brickguide/pompompurin/"
+    },
+    {
+      "id": "50382f97ab6d79c1",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "TOKYOレインボー夏祭り ～ 2026/08/31(月)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-31",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.enjoytokyo.jp/event/2074515/"
+    },
+    {
+      "id": "f02f0cb360a3ca1f",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "第二回中目黒盆踊り大会 2026 2026/08/29(土) ～ 08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-29",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.enjoytokyo.jp/event/2021973/"
+    },
+    {
+      "id": "df93c70e1b32b8a2",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "細田守の原点/展 ～ 2026/08/31(月)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-31",
+      "end_date_iso": "2026-08-31",
+      "url": "https://www.enjoytokyo.jp/event/2067229/"
+    },
+    {
+      "id": "85eb883b9b98006c",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "屋台湾フェス2026 2026/09/03(木) ～ 09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-03",
+      "end_date_iso": "2026-09-03",
+      "url": "https://www.enjoytokyo.jp/event/2078671/"
+    },
+    {
+      "id": "fd6f73b59212cbe0",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "視える人には見える展 2026/08/28(金) ～ 09/30(水)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-28",
+      "end_date_iso": "2026-08-28",
+      "url": "https://www.enjoytokyo.jp/event/2076589/"
+    },
+    {
+      "id": "f3dc8c4f609fea92",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "グミの家 2026/08/29(土) ～ 08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-29",
+      "end_date_iso": "2026-08-29",
+      "url": "https://www.enjoytokyo.jp/event/2077509/"
+    },
+    {
+      "id": "0220fe8d64a7ad3d",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "オクトーバーフェスト2026 in 芝公園～Autumn～ 2026/09/11(金) ～ 09/23(水・祝)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-11",
+      "end_date_iso": "2026-09-11",
+      "url": "https://www.enjoytokyo.jp/event/2000497/"
+    },
+    {
+      "id": "a9e51aba8c14d8f7",
+      "sent_at": "2026-08-28T06:26:16.416859+00:00",
+      "name": "夏の激辛グランプリ2026 ～ 2026/08/30(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-30",
+      "end_date_iso": "2026-08-30",
+      "url": "https://www.enjoytokyo.jp/event/2007208/"
     }
   ]
 }
