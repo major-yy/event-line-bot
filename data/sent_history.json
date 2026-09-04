@@ -2249,6 +2249,186 @@
       "start_date_iso": "2026-08-30",
       "end_date_iso": "2026-08-30",
       "url": "https://www.enjoytokyo.jp/event/2007208/"
+    },
+    {
+      "id": "6ab09a6c4d2cdb96",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "どこか奇妙な職業体験 真夜中の学芸員",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-24",
+      "end_date_iso": "2026-09-26",
+      "url": "https://eplus.jp/midnight_curator/"
+    },
+    {
+      "id": "78472a2f263cf22f",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "屋台湾フェス2026in 日比谷公園～あつまれ！究極の屋台グルメ～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-03",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.yataiwan-fes.jp"
+    },
+    {
+      "id": "b95268d5e06aacb0",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "あやせエンタメまつり2026",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-09-05",
+      "end_date_iso": "2026-09-05",
+      "url": "https://ayase-entame.my.canva.site/"
+    },
+    {
+      "id": "639852f4fbdba58a",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "雷門盆踊り～夢灯篭～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-05",
+      "end_date_iso": "2026-09-05",
+      "url": "http://www.kaminari-bonodori.com/"
+    },
+    {
+      "id": "98d7eac8393ddc3e",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "JUJUTSU KAISEN WORLD(ジュジュツカイセン ワールド)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-07",
+      "end_date_iso": "2026-09-27",
+      "url": "https://event.bandainamco-am.co.jp/cx/jujutsu-kaisen-world/"
+    },
+    {
+      "id": "ae2c487f865681ba",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "ロン・ミュエク",
+      "prefecture": "東京",
+      "start_date_iso": "2026-04-29",
+      "end_date_iso": "2026-09-23",
+      "url": "https://www.mori.art.museum/jp/exhibitions/ronmueck/"
+    },
+    {
+      "id": "7f9c6739adaec7c0",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "視える人には見える展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-28",
+      "end_date_iso": "2026-09-30",
+      "url": "https://mieruhito.com/"
+    },
+    {
+      "id": "05333a233b91d228",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "エリック・カールと いのちの色 ー同じ世界で、ちがう色ー",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-25",
+      "end_date_iso": "2026-12-25",
+      "url": "https://www.aquarium.gr.jp/news/events/31639"
+    },
+    {
+      "id": "cbbbafad9952888e",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "水木しげるの妖怪夏祭り～88のあやしい星座たち～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-07-17",
+      "end_date_iso": "2026-09-27",
+      "url": "https://planetarium.konicaminolta.jp/event/yokai2026/?hall=planetariatokyo&rl=260617_ptok_yokai2026"
+    },
+    {
+      "id": "98c9af77f95edecf",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "天の川イルミネーション2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-06-12",
+      "end_date_iso": "2026-09-27",
+      "url": "https://www.tokyotower.co.jp/event/amanogawa2026/"
+    },
+    {
+      "id": "1e6a3b88b7808d9d",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "大北海道展",
+      "prefecture": "東京",
+      "start_date_iso": "2026-08-20",
+      "end_date_iso": "2026-09-09",
+      "url": "https://www.keionet.com/info/shinjuku/"
+    },
+    {
+      "id": "611228956d46634f",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "クリスタル・ガラスの水上花火",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-07-18",
+      "end_date_iso": "2026-10-12",
+      "url": "https://www.hakone-garasunomori.jp/garden/crystal/hanabi/"
+    },
+    {
+      "id": "7d2f8a909421216d",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "屋台湾フェス2026 ～ 2026/09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/2078671/"
+    },
+    {
+      "id": "fe7a68854ab7a5d1",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "記憶汚染展 ～ 2026/09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/2077513/"
+    },
+    {
+      "id": "2c6ef376223d3a60",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "東京ミッドタウン八重洲「八重洲夜市 2026」 ～ 2026/09/06(日) ※8/31(月)～9/3(木)はDJのみ ※9/1(火)は一部エリア貸切予定",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/2003003/"
+    },
+    {
+      "id": "485f107c052f98d4",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "花火アクアリウム by NAKED ～ 2026/09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/1289708/"
+    },
+    {
+      "id": "68ba6ee0ebd2b7e0",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "藝祭2026 x 上野まち祭り 2026/09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/2031956/"
+    },
+    {
+      "id": "4c91d8c3b26f9565",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "可愛いだけじゃない！？ピングー展 ～ 2026/09/06(日) ※会期中無休",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-06",
+      "end_date_iso": "2026-09-06",
+      "url": "https://www.enjoytokyo.jp/event/2067248/"
+    },
+    {
+      "id": "a5e23119e4540c5e",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "チャイナフェスティバル2026 2026/09/05(土) ～ 09/06(日) ※開会式：5日 11:00〜予定",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-05",
+      "end_date_iso": "2026-09-05",
+      "url": "https://www.enjoytokyo.jp/event/1390996/"
+    },
+    {
+      "id": "ebc5ce5785b8455f",
+      "sent_at": "2026-09-04T00:31:26.542933+00:00",
+      "name": "北澤八幡神社例大祭 2026/09/05(土) ～ 09/06(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-05",
+      "end_date_iso": "2026-09-05",
+      "url": "https://www.enjoytokyo.jp/event/2078987/"
     }
   ]
 }
