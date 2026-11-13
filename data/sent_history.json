@@ -4049,6 +4049,186 @@
       "start_date_iso": "2026-10-14",
       "end_date_iso": "2026-12-06",
       "url": "https://daitokuji2026.exhn.jp/"
+    },
+    {
+      "id": "50acadff3e727068",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "たちかわ楽市2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-14",
+      "end_date_iso": "2026-11-15",
+      "url": "https://www.tachikawa-chiikibunka.or.jp/b10-20261114/"
+    },
+    {
+      "id": "735fc13de0b9d9bd",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "日本オリンピックミュージアム企画展「ポケモンとアスリートのわざ展」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-09-19",
+      "end_date_iso": "2026-11-23",
+      "url": "https://japan-olympicmuseum.jp/jp/exhibition/pokemon_athletesmoves.html"
+    },
+    {
+      "id": "8fbf633ce7c8c3c7",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "体験型謎解き 宇宙トラベルツアー",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-22",
+      "end_date_iso": "2027-02-07",
+      "url": "https://www.tokyo-dome.co.jp/tenq/event/exhibition-stt-8.html"
+    },
+    {
+      "id": "9911c84b77268632",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "特別企画「銀座の金魚百華展」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-02",
+      "end_date_iso": "2027-01-06",
+      "url": "https://artaquarium.jp/news/detail/202610028336/"
+    },
+    {
+      "id": "295a0b3fd9f0f9c3",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "ワテラスイルミネーション2026 ファンタジープロムナードイルミネーション ～夢をランタンにこめて～",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-19",
+      "end_date_iso": "2027-02-28",
+      "url": "https://www.waterras.com/"
+    },
+    {
+      "id": "f1ebfa615aab474e",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "全肉祭＆マヨフェスin江戸川区(東京) 2026/11/14(土) ～ 11/15(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-14",
+      "end_date_iso": "2026-11-14",
+      "url": "https://www.enjoytokyo.jp/event/2087423/"
+    },
+    {
+      "id": "39c0e10a5d03feaf",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "国営昭和記念公園 秋の夜散歩 2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-29",
+      "end_date_iso": "2026-11-29",
+      "url": "https://www.showakinen-koen.jp/autumn-night-walk/"
+    },
+    {
+      "id": "734bf25ba814ace7",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "皇居三の丸尚蔵館グランドオープン記念特別展「皇室の至宝―美いづるところ」",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-03",
+      "end_date_iso": "2027-01-24",
+      "url": "https://shozokan.nich.go.jp/feature/grand-opening/beauty/"
+    },
+    {
+      "id": "a6209784ad8ccc6e",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "2027春節燈花",
+      "prefecture": "神奈川",
+      "start_date_iso": "2026-11-01",
+      "end_date_iso": "2027-02-20",
+      "url": "https://www.chinatown.or.jp/event/event/"
+    },
+    {
+      "id": "6a9b6c3fddb381f6",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "丸の内イルミネーション 2026 2026/11/12(木) ～ 2027/02/14(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-12",
+      "end_date_iso": "2027-02-14",
+      "url": "https://www.enjoytokyo.jp/event/379087/"
+    },
+    {
+      "id": "07d663616bc45814",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "デザインフェスタvol.64 2026/11/14(土) ～ 11/15(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-14",
+      "end_date_iso": "2026-11-14",
+      "url": "https://www.enjoytokyo.jp/event/1000809/"
+    },
+    {
+      "id": "cd1592a853160c62",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "吉祥寺パルコMOTTAINAIフリーマーケット（11月） ～ 2026/11/14(土) 開催日は、11/1、11/14",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-14",
+      "end_date_iso": "2026-11-14",
+      "url": "https://www.enjoytokyo.jp/event/2077826/"
+    },
+    {
+      "id": "54f386b805ae7268",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "かつしかフードフェスタ2026 2026/11/14(土) ～ 11/15(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-14",
+      "end_date_iso": "2026-11-14",
+      "url": "https://www.enjoytokyo.jp/event/2086023/"
+    },
+    {
+      "id": "bbdaa1bb6fb3e711",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "農林水産祭「実りのフェスティバル」 2026/11/13(金) ～ 11/14(土)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-13",
+      "end_date_iso": "2026-11-13",
+      "url": "https://www.enjoytokyo.jp/event/2084298/"
+    },
+    {
+      "id": "388f3818610f0fce",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "大國魂神社 酉の市 2026/11/07(土) 大鷲神社例祭(一の酉) 2026/11/19(木) 大鷲神社例祭(二の酉)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-07",
+      "end_date_iso": "2026-11-19",
+      "url": "https://www.enjoytokyo.jp/event/690348/"
+    },
+    {
+      "id": "a3e349ef829d4228",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "新宿パークタワー ウィンターイルミネーション2026 2026/11/09(月) ～ 2027/02/14(日)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-11-09",
+      "end_date_iso": "2027-02-14",
+      "url": "https://www.enjoytokyo.jp/event/2088320/"
+    },
+    {
+      "id": "fd482d70f044afdf",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "東京ドームホテル 北海道フェア2026",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-01",
+      "end_date_iso": "2027-02-28",
+      "url": "https://www.tokyodome-hotels.co.jp/restaurants/fair/rilassa-hokkaido/"
+    },
+    {
+      "id": "eb5b77e0ff5706c8",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "高尾山もみじまつり",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-24",
+      "end_date_iso": "2026-12-13",
+      "url": "https://www.hkc.or.jp/takaosan/momiji_fes/"
+    },
+    {
+      "id": "5dee8d8e57a3b708",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "東京メガイルミ(大井競馬場)",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-31",
+      "end_date_iso": "2027-01-10",
+      "url": "https://tokyomegaillumi.jp/"
+    },
+    {
+      "id": "87e0fee418d3051a",
+      "sent_at": "2026-11-13T03:02:35.154900+00:00",
+      "name": "国営昭和記念公園の紅葉",
+      "prefecture": "東京",
+      "start_date_iso": "2026-10-21",
+      "end_date_iso": "2026-11-30",
+      "url": "https://www.showakinen-koen.jp/"
     }
   ]
 }
